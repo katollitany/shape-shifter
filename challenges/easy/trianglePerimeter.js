@@ -7,7 +7,7 @@
  */
 
 function trianglePerimeter (a, b, c) {
-  return a + b + C
+  return a + b + c
 }
 
 module.exports = trianglePerimeter
