@@ -6,7 +6,7 @@
  */
 
 function rectangleArea (a, b) {
-  a * b
+  return a * b
 }
 
 module.exports = rectangleArea
