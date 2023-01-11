@@ -6,7 +6,7 @@
  */
 
 function rectanglePerimeter (a, b) {
-  return 2 * a + b
+  return 2 * (a + b)
 }
 
 module.exports = rectanglePerimeter
